@@ -1,0 +1,16 @@
+# Atlogex gitignore
+
+
+### IDEA
+/.idea/
+/axframe-yii2.my.iml
+
+
+### Yii template
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+
