@@ -6,7 +6,7 @@
 /axframe-yii2.my.iml
 
 
-### Yii template
+### Yii
 assets/*
 !assets/.gitignore
 protected/runtime/*
@@ -15,3 +15,7 @@ protected/data/*.db
 themes/classic/views/
 
 /framework_yii2/vendor/
+
+
+### Site
+/public_html/assets/*
