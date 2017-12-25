@@ -19,4 +19,5 @@ themes/classic/views/
 
 ### Site
 /public_html/assets/*
+!/public_html/assets/
 /composer.lock
