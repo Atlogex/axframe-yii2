@@ -13,6 +13,8 @@ Ready:
 
 Future:
 1. Connect and configure NPM and Webpack.
+2. Add Tests.
+3. Add Docker Build.
 
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for developing complex Web applications with multiple tiers.
@@ -30,5 +32,7 @@ framework_yii2               Core CMF (Yii 2 Advacned)
     frontend/                Frontend
         themes/              Theming
             default          Themes default
+
+vendor                       Vendor directory
 
 ```

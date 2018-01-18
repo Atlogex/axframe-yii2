@@ -15,7 +15,7 @@ protected/data/*.db
 themes/classic/views/
 
 /framework_yii2/vendor/
-
+/vendor/
 
 ### Site
 /public_html/assets/*
