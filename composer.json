@@ -26,12 +26,12 @@
         "codeception/verify": "~0.3.1"
     },
     "config": {
-        "vendor-dir": "framework_yii2/vendor",
+        "vendor-dir": "vendor",
         "process-timeout": 1800,
         "fxp-asset":{
             "installer-paths": {
-                "npm-asset-library": "framework_yii2/vendor/npm",
-                "bower-asset-library": "framework_yii2/vendor/bower"
+                "npm-asset-library": "vendor/npm",
+                "bower-asset-library": "vendor/bower"
             }
         }
     },
